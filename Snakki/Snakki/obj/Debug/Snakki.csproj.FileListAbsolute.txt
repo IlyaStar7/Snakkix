@@ -1,0 +1,6 @@
+C:\Users\UNIVERSAL\Desktop\Snakkix\Snakki\Snakki\obj\Debug\Snakki.csproj.CoreCompileInputs.cache
+C:\Users\UNIVERSAL\Desktop\Snakkix\Snakki\Snakki\bin\Debug\Snakki.exe.config
+C:\Users\UNIVERSAL\Desktop\Snakkix\Snakki\Snakki\bin\Debug\Snakki.exe
+C:\Users\UNIVERSAL\Desktop\Snakkix\Snakki\Snakki\bin\Debug\Snakki.pdb
+C:\Users\UNIVERSAL\Desktop\Snakkix\Snakki\Snakki\obj\Debug\Snakki.exe
+C:\Users\UNIVERSAL\Desktop\Snakkix\Snakki\Snakki\obj\Debug\Snakki.pdb
