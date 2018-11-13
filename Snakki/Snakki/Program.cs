@@ -10,41 +10,22 @@ namespace Snakki
     {
         static void Main(string[] args)
         {
-            Point p1 = new Point();
+            Point p1 = new Point(1,3,'*');
 
-            p1.x = 1;
-            p1.y = 3;
-            p1.sym = '*';
-            //Draw(p1.x, p1.y, p1.sym);
-            p1.Draw();  // Вызов метода Draw из Point.cs
+            //p1.x = 1;  Заменяется на public Point с _x в классе Point
+            //p1.y = 3;
+            //p1.sym = '*';
+            p1.Draw(); 
 
-            Point p2 = new Point();
+            Point p2 = new Point(4,5,'#');
 
-            p2.x = 4;
-            p2.y = 5;
-            p2.sym = '#';
-            //Draw(p2.x, p2.y, p2.sym);
+            //p2.x = 4;
+            //p2.y = 5;
+            //p2.sym = '#';
             p2.Draw();
-
-            //int x1 = 1;   Заменяется на p.1x ... из Point.cs
-            //int y1 = 3;
-            //char sym1 = '*';
-
-            //Draw(x1, y1, sym1);
-
-            //int x2 = 4;
-            //int y2 = 5;
-            //char sym2 = '#';
             
-            //Draw(x2, y2, sym2);
-
             Console.ReadLine();
         }
-
-        //static void Draw(int x, int y, char sym)  Заменяется на метод Draw из Point.cs
-        //{
-        //    Console.SetCursorPosition(x, y);
-        //    Console.Write(sym);
-        //}
+        
     }
 }
